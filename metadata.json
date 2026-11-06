@@ -1,0 +1,6 @@
+{
+  "name": "DecisionTwin AI",
+  "description": "AI-powered Business Decision Simulation and Learning Platform. Simulate before you decide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
